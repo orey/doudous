@@ -3,7 +3,7 @@ cls
 
 if "%1" == "" ( 
     echo Git publish script version 1
-    echo Usage : publish.sh [comment_between_quotes]
+    echo Usage : publish.sh [comment_without_quotes]
     goto :end
 )
 

@@ -4,8 +4,8 @@ Ce repo contient des histoires de doudous sous licence GNU FDL. N'h√©sitez pas √
 
 Liste :
 
-* Les eucalyptus de Neptune
-* Histoire des mini-mammouths
+* [Les eucalyptus de Neptune](neptune.md "Neptune")
+* [Histoire des mini-mammouths](mini-mammouths.md "Mini-mammouths")
 
 -----
 

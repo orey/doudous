@@ -28,7 +28,7 @@ Sur terre, cette pâte est utilisée pour faire les mouchoirs verts dont les gen
 
 ![Photo de boîte de mouchoirs d'eucalyptus](boite.png "Boîte de mouchoirs à l'eucalyptus")
 
-_[Sous licence [GNU FDL](LICENSE.md "License")]_
-
 _Ci-dessus : une photo d'une boîte de mouchoirs contenant de la pâte d'eucalyptus neptuniens_
+
+_[Sous licence [GNU FDL](LICENSE.md "License")]_
 

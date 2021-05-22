@@ -24,3 +24,5 @@ Ils utilisent les débris des écorces et les feuilles gigantesques des eucalypt
 
 Sur terre, cette pâte est utilisée pour faire les mouchoirs verts dont les gens se servent quand ils ont un rhume. Peu de gens savent que l'ingrédient principal des mouchoirs verts vient de Neptune, c'est pourquoi, il est important de le raconter aux enfants quand ils ont un gros rhume et qu'ils sont obligés de se moucher.
 
+![Photo de boîte de mouchoirs d'eucalyptus](boite.png "Boîte de mouchoirs à l'eucalyptus")
+

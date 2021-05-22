@@ -53,4 +53,3 @@ _Une photo de Chat-chien_
 Tous les trois, ils vivront de grandes aventures.
 
 _[Sous licence [GNU FDL](LICENSE.md "License")]_
-

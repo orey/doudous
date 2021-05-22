@@ -8,6 +8,8 @@ De fait, sur Neptune poussent des eucalyptus géants, mesurant environ quelques 
 
 ![Photo d'eucalyptus](euca01.jpg "eucalyptus")
 
+_Ci-dessus : une photo d'une forêt terrienne d'eucalyptus_
+
 ## Un monde en harmonie
 
 Les eucalyptus maintiennent une bulle vivante autour du noyau de la planète, tout en masquant quasiment complètement la lumière du soleil. Pour autant, le jour et la nuit peuvent être distingués quand on se trouve sous les arbres.
@@ -27,4 +29,6 @@ Sur terre, cette pâte est utilisée pour faire les mouchoirs verts dont les gen
 ![Photo de boîte de mouchoirs d'eucalyptus](boite.png "Boîte de mouchoirs à l'eucalyptus")
 
 _[Sous licence [GNU FDL](LICENSE.md "License")]_
+
+_Ci-dessus : une photo d'une boîte de mouchoirs contenant de la pâte d'eucalyptus neptuniens_
 

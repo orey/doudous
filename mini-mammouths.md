@@ -37,7 +37,7 @@ Quand ils tombent le long d'une pente, entravés par leurs poils, on voit parfoi
 
 ## Habitudes alimentaires
 
-Les MM se nourissent de phasmes géants.
+Les mini-mammouths se nourissent de phasmes géants.
 
 Dans certaines forêts, les phasmes géants ont la taille des arbres et il est bien difficile de les en distinguer. Surtout que, du fait de leur longevité (les phasmes géants peuvent vivre plusieurs milliers d'années), ils sont le plus souvent recouverts de lierre, et ce n'est que quand leurs yeux s'ouvrent dans des branches ou des troncs que l'on peut voir que ce sont des phasmes et non des arbres.
 

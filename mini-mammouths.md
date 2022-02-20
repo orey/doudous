@@ -6,7 +6,7 @@ Les minis-mammouths vivent dans certaines forêts de montagne, par exemple en Au
 
 ![Un mini-mammouth adulte](mm-poils.png "Mini-mammouth")
 
-_Figure 1 : Un mini-mammouth à poils longs_
+_Figure 1 - Un mini-mammouth à poils longs_
 
 Il existe deux espèces de mini-mammouths :
 * Les mini-mammouths à poils courts
@@ -22,7 +22,7 @@ Il est dangereux pour les promeneurs de rencontrer un mini-mammouth entravé qui
 
 ![Chutes de mini-mammouths](chutes.png "Chutes de mini-mammouths")
 
-_Figure 2 : Un panneau avertissant les promeneurs des éventuelles chutes de mini-mammouths_
+_Figure 2 - Un panneau avertissant les promeneurs des éventuelles chutes de mini-mammouths_
 
 
 ## Une vie nocturne
@@ -31,7 +31,7 @@ Les mini-mammouths vivent plutôt la nuit et leurs yeux éclairent la forêt com
 
 ![Un mini-mammouth la nuit](mm-nuit.png "Un mini-mammouth la nuit")
 
-_Figure 3 : un mini-mammouth la nuit sur un chemin en forêt_
+_Figure 3 6 Un mini-mammouth la nuit sur un chemin en forêt_
 
 Quand ils tombent le long d'une pente, entravés par leurs poils, on voit parfois des boules avec des lumières tournantes dévaler les pentes des montagnes d'Auvergne. Certaines personnes mal informées ont même pris les minis-mammouths pour des lucioles ou même des extra-terrestres, ce qui est ridicule.
 
@@ -43,7 +43,7 @@ Dans certaines forêts, les phasmes géants ont la taille des arbres et il est b
 
 ![Phasme géant](phasmegeant.png "Phasme géant")
 
-_Figure 4 : un phasme géant âgé de plus de cent ans accroché à un arbre_
+_Figure 4 - Un phasme géant âgé de plus de cent ans accroché à un arbre_
 
 ## Traces des mini-mammouths dans l'histoire
 
@@ -51,7 +51,7 @@ Les premières traces de l'existence des mini-mammouths dont l'on dispose se tro
 
 ![Grotte de Rouffignac](rouffignac.png "Grotte de Rouffignac")
 
-_Figure 5 : la première représentation de mini-mammouth de l'histoire_
+_Figure 5 - La première représentation de mini-mammouth de l'histoire_
 
 Plus tard dans l'histoire, les archéologues ont trouvé des preuves montrant que, du temps des Gaulois, il existait des coiffeurs de minis-mammouths. Les vestiges archéologiques du plateau de [Gergovie](https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Gergovie "Gergovie") le confirment. Des chercheurs pensent que les mini-mammouths auraient pu être apprivoisés mais aucun indice ne confirme cette hypothèse.
 
@@ -59,7 +59,7 @@ On trouve aussi une représentation intéressante de mini-mammouth à poil court
 
 ![Mosaïque](mosaique.png "Mosaïque")
 
-_Figure 6 : un mini-mammouth utilisé comme un jouet chez les romains_
+_Figure 6 - Un mini-mammouth utilisé comme un jouet chez les romains_
 
 ## Origine des mini-mammouths
 
@@ -85,7 +85,7 @@ Ces pyramides, quand elles sont bien faites, réfléchissent le soleil pour appe
 
 ![Pyramide](pyramide.png "pyramide")
 
-_Figure 6: une ébauche de pyramide de pierres de lave faite par un mini-mammouth pressé_
+_Figure 7 - Une ébauche de pyramide de pierres de lave faite par un mini-mammouth pressé_
 
 ## Les mini-mammouths et l'électricité
 

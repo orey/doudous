@@ -2,7 +2,7 @@
 
 ## Habitat et espèces
 
-Les minis-mammouths vivent dans certaines forêts de montagne, par exemple en Auvergne ou vers le col de Turini. Les minis-mammouths sont aussi hauts que des chiens de taille moyenne, type labradors, mais ils sont beaucoup plus trapus. Comme les mammouths, les mini-mammouths ont quatre pattes, une trompe, une queue courte, des oreilles petites comme les éléphants d'Asie, mais aucune défense.
+Les mini-mammouths vivent dans certaines forêts de montagne, par exemple en Auvergne ou vers le col de Turini. Les mini-mammouths sont aussi hauts que des chiens de taille moyenne, type labradors, mais ils sont beaucoup plus trapus. Comme les mammouths, les mini-mammouths ont quatre pattes, une trompe, une queue courte, des oreilles petites comme les éléphants d'Asie, mais aucune défense.
 
 ![Un mini-mammouth adulte](mm-poils.png "Mini-mammouth")
 
@@ -33,7 +33,7 @@ Les mini-mammouths vivent plutôt la nuit et leurs yeux éclairent la forêt com
 
 _Figure 3 - Un mini-mammouth la nuit sur un chemin en forêt_
 
-Quand ils tombent le long d'une pente, entravés par leurs poils, on voit parfois des boules avec des lumières tournantes dévaler les pentes des montagnes d'Auvergne. Certaines personnes mal informées ont même pris les minis-mammouths pour des lucioles ou même des extra-terrestres, ce qui est ridicule.
+Quand ils tombent le long d'une pente, entravés par leurs poils, on voit parfois des boules avec des lumières tournantes dévaler les pentes des montagnes. Certaines personnes mal informées ont même pris les mini-mammouths pour des lucioles ou même des extra-terrestres, ce qui est ridicule.
 
 ## Habitudes alimentaires
 
@@ -53,7 +53,7 @@ Les premières traces de l'existence des mini-mammouths dont l'on dispose se tro
 
 _Figure 5 - La première représentation de mini-mammouth de l'histoire_
 
-Plus tard dans l'histoire, les archéologues ont trouvé des preuves montrant que, du temps des Gaulois, il existait des coiffeurs de minis-mammouths. Les vestiges archéologiques du plateau de [Gergovie](https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Gergovie "Gergovie") le confirment. Des chercheurs pensent que les mini-mammouths auraient pu être apprivoisés mais aucun indice ne confirme cette hypothèse.
+Plus tard dans l'histoire, les archéologues ont trouvé des preuves montrant que, du temps des Gaulois, il existait des coiffeurs de mini-mammouths. Les vestiges archéologiques du plateau de [Gergovie](https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Gergovie "Gergovie") le confirment. Des chercheurs pensent que les mini-mammouths auraient pu être apprivoisés mais aucun indice ne confirme cette hypothèse.
 
 On trouve aussi une représentation intéressante de mini-mammouth à poil court sur une mosaïque romaine. Ce dernier est harnaché comme les chevaux de guerre, ce qui laisse à penser qu'il s'agissait du jouet préféré du fils d'un riche tribun. Le mini-mammouth aura sans doute été rapporté des campagnes de Gaule.
 
@@ -65,7 +65,7 @@ _Figure 6 - Un mini-mammouth utilisé comme un jouet chez les romains_
 
 Les mammouths sont une race d'êtres extraterrestres intelligents. Ils sont arrivés sur la Terre il y a environ cinq millions d'années, dans des navettes spatiales que les recherches n'ont pas encore permis de retrouver.
 
-![Représentation de minis-mammouth](mm.png "Minis-mammouth")
+![Représentation de mini-mammouth](mm.png "Mini-mammouth")
 
 _Ci-dessus : une représentation de mammouth, l'ancêtre du mini-mammouth_
 
@@ -99,7 +99,7 @@ Après de nombreuses électrocutions, les pouvoirs publics ont établi des zones
 
 ## L'Association de Protection des Animaux Inconnus (APAI)
 
-Aujourd'hui les mini-mammouths sont une espèce protégée. Ils sont souvent pris en charge par l'APAI, l'Association de Protection des Animaux Inconnus. Cette association possède un site non référencé par les moteurs de recherche (sur le "dark web") pour que les animaux inconnus le restent, et que ni les  médias, ni le grand public ne soit mis au courant de leur existence.
+Aujourd'hui les mini-mammouths sont une espèce protégée. Ils sont souvent pris en charge par l'APAI, l'Association de Protection des Animaux Inconnus. Cette association possède un site non référencé par les moteurs de recherche (sur le "dark web") pour que les animaux inconnus le restent, et que ni les  médias, ni le grand public ne soient mis au courant de leur existence.
 
 _[Dernière mise à jour : 20 février 2022. Sous licence [GNU FDL](LICENSE.md "License")]_
 

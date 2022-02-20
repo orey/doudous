@@ -67,7 +67,7 @@ Les mammouths sont une race d'êtres extraterrestres intelligents. Ils sont arri
 
 ![Représentation de minis-mammouth](mm.png "Minis-mammouth")
 
-_Ci-dessus : une représentation de mammouth, le descendant du mini-mammouth_
+_Ci-dessus : une représentation de mammouth, l'ancêtre du mini-mammouth_
 
 Certains ont avancé l'hypothèse que l'arrivée des mammouths aurait provoqué la fin des dinosaures  mais les dates ne coïncident pas (les dinosaures ont disparu il y a environ 65 millions d'années).
 

@@ -43,7 +43,7 @@ Dans certaines forêts, les phasmes géants ont la taille des arbres et il est b
 
 ![Phasme géant](phasmegeant.png "Phasme géant")
 
-_Figure 4 : un phasme géant âgé de plus de cent ans_
+_Figure 4 : un phasme géant âgé de plus de cent ans accroché à un arbre_
 
 Certains archéologues pensent que les Gaulois avaient domestiqué les phasmes géants et qu'il les utilisaient pour leur transport de marchandises. Mais ces animaux étant vraiment très lents, cette histoire paraît peu plausible.
 

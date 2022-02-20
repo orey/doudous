@@ -77,11 +77,11 @@ Tout ce dont nous sommes certains est que le savoir du voyage spatial s'est prog
 
 Aujourd'hui, seuls ces derniers se rappellent encore de l'ère glorieuse de la conquête spatiale. Tous les solstices d'été, les mini-mammouths entonnent le "chant des anciens" (des barrissements polyphoniques de toute beauté) en mémoire de leurs ancêtres, explorateurs galactiques.
 
-## Créativité des minis-mammouths
+## Créativité des mini-mammouths
 
-Les minis-mammouths sont de grands artistes. A leurs moments perdus, ils construisent avec leur trompe des petites pyramides de pierre (ils ne sont pas très hauts eux-mêmes) en haut des montagnes qu'ils habitent. 
+Les mini-mammouths sont de grands artistes. A leurs moments perdus, ils construisent avec leur trompe des petites pyramides de pierre (ils ne sont pas très hauts eux-mêmes) en haut des montagnes qu'ils habitent. 
 
-Ces pyramides, quand elles sont bien faites, réfléchissent le soleil pour appeler les vaisseaux spatiaux de leurs ancètres les mammouths. En effet, les mini-mammouths croient que leurs ancêtres reviendront un jour visiter la Terre et les emmèneront dans leur planète natale.
+Ces pyramides, quand elles sont bien faites, réfléchissent le soleil pour appeler les vaisseaux spatiaux de leurs ancêtres les mammouths. En effet, les mini-mammouths croient que leurs ancêtres reviendront un jour visiter la Terre et les emmèneront dans leur planète natale.
 
 ![Pyramide](pyramide.png "pyramide")
 

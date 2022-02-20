@@ -91,6 +91,10 @@ _Figure 7 - Une ébauche de pyramide de pierres de lave faite par un mini-mammou
 
 Quand les mini-mammouths sont furieux, ils sont capables de lancer, avec leur trompe, une décharge électrique de plus de 1000 volts. Cette caractéristique leur a valu récemment beaucoup de problèmes, des écologistes voulant utiliser les mini-mammouths pour recharger leurs voitures électriques.
 
+![Décharge](decharge.png "Décharge")
+
+_Figure 8 - Représentation d'une décharge électrique de trompe de mini-mammouth_
+
 Après de nombreuses électrocutions, les pouvoirs publics ont établi des zones protégées pour que les mini-mammouths puissent vivre et se reproduire, sans être importunés.
 
 ## L'Association de Protection des Animaux Inconnus (APAI)

@@ -29,7 +29,7 @@ _Figure 2 : Un panneau avertissant les promeneurs des éventuelles chutes de min
 
 Les mini-mammouths vivent plutôt la nuit et leurs yeux éclairent la forêt comme des phares de voiture.
 
-![Un mini-mammouth la nuit](mm-nuits.png "Un mini-mammouth la nuit")
+![Un mini-mammouth la nuit](mm-nuit.png "Un mini-mammouth la nuit")
 
 _Figure 3 : un mini-mammouth la nuit sur un chemin en forêt_
 

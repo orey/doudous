@@ -49,7 +49,7 @@ _Figure 4 : un phasme géant âgé de plus de cent ans accroché à un arbre_
 
 Les premières traces de l'existence des mini-mammouths dont l'on dispose se trouvent ans la grotte de Rouffignac, dans le Périgord.
 
-![Grotte de Rouffignac](roufignac.png "Grotte de Rouffignac")
+![Grotte de Rouffignac](rouffignac.png "Grotte de Rouffignac")
 
 _Figure 5 : la première représentation de mini-mammouth de l'histoire_
 

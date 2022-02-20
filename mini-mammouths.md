@@ -45,8 +45,6 @@ Dans certaines forêts, les phasmes géants ont la taille des arbres et il est b
 
 _Figure 4 : un phasme géant âgé de plus de cent ans accroché à un arbre_
 
-Certains archéologues pensent que les Gaulois avaient domestiqué les phasmes géants et qu'il les utilisaient pour leur transport de marchandises. Mais ces animaux étant vraiment très lents, cette histoire paraît peu plausible.
-
 ## Traces des mini-mammouths dans l'histoire
 
 Les premières traces de l'existence des mini-mammouths dont l'on dispose se trouvent ans la grotte de Rouffignac, dans le Périgord.

@@ -1,16 +1,31 @@
 # Un animal peu connu : le mini-mammouth
 
-![Un mini-mammouth adulte](mm-poils.png "Mini-mammouth")
-
 ## Habitat et espèces
 
 Les minis-mammouths vivent dans certaines forêts de montagne, par exemple en Auvergne et vers le col de Turini. Les minis-mammouths sont aussi hauts que des chiens de taille moyenne, type labradors, mais ils sont beaucoup plus trapus. Comme les mammouths, ces derniers ont quatre pattes, une trompe, une queue courte, des oreilles petites comme les éléphants d'Asie, mais aucune défense.
 
-Il y en a de deux espèces : les minis-mammouths à poils courts et ceux à poils longs. Les mini-mammouths à poil court ont quasiment disparu au profit des mini-mammouths à poils longs, mieux équipés pour résister au froid.
+![Un mini-mammouth adulte](mm-poils.png "Mini-mammouth")
+
+_Figure 1 : Un mini-mammouth à poils longs_
+
+Il existe deux espèces de mini-mammouths :
+* Les mini-mammouths à poils courts
+* Les mini-mammouths à poils longs.
+
+Au fil des âges, les mini-mammouths à poil court ont quasiment disparu au profit des mini-mammouths à poils longs, mieux équipés pour résister au froid.
 
 ## Les poils longs, avantages et inconvénients
 
-Les mini-mammouths à poils longs s'entravent souvent dans leurs poils, si bien qu'ils se mettent à rouler en boule dans les forêts pentues. Il est dangereux alors pour les promeneurs de rencontrer un mini-mammouth entravé qui roule, le risque de collision étant important.
+Les mini-mammouths à poils longs s'entravent souvent dans leurs poils, ce qui les fait tomber. S'ils tombent, alors qu'ils étaient sur une pente montagneuses importante, ils se mettent à rouler en boule au travers des forêts pentues.
+
+Il est dangereux alors pour les promeneurs de rencontrer un mini-mammouth entravé qui roule, le risque de collision étant important. Dans certaines forêts protégées, on trouve des panneaux avertissant les promeneurs.
+
+
+![Chutes de mini-mammouths](chutes.png "Chutes de mini-mammouths")
+
+
+## reprendre ici
+
 
 ![Représentation de minis-mammouth](mm.png "Minis-mammouth")
 

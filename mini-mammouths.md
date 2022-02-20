@@ -31,7 +31,7 @@ Les mini-mammouths vivent plutôt la nuit et leurs yeux éclairent la forêt com
 
 ![Un mini-mammouth la nuit](mm-nuit.png "Un mini-mammouth la nuit")
 
-_Figure 3 6 Un mini-mammouth la nuit sur un chemin en forêt_
+_Figure 3 - Un mini-mammouth la nuit sur un chemin en forêt_
 
 Quand ils tombent le long d'une pente, entravés par leurs poils, on voit parfois des boules avec des lumières tournantes dévaler les pentes des montagnes d'Auvergne. Certaines personnes mal informées ont même pris les minis-mammouths pour des lucioles ou même des extra-terrestres, ce qui est ridicule.
 
